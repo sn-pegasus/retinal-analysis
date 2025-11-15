@@ -1,0 +1,7 @@
+numpy>=1.26.0
+opencv-python>=4.8.0
+pillow>=11.0.0
+scipy>=1.11.0
+oct-converter>=0.6.2
+
+
